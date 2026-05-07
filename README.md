@@ -30,7 +30,7 @@ The dashboard highlights:
 - Claim rate by segment, fuel type, region, and safety rating.
 - Comparison of policies vs claims across segments.
 - Basic profile differences between claim and non-claim customers.
-
+  
 _Files:_
 - `powerbi/insurance_dashboard.pbix`
 - `images/dashboard_preview.png`
